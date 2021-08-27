@@ -1,12 +1,22 @@
 ## Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> I'm Vitor Viel 😃
-- I'm Currently learning <b> React/Node.js </b> 📚
+- System Development student at <a href="https://cotuca.unicamp.br/cotuca/">COTUCA</a> 👨‍💻
 
-- Studing a little of **everything** 👨‍💻
+- Currently learning <b>React/Node.js </b> 📚
+
+- Studing a little of **everything** 🤓
 
 - Counter-Strike: Global Offensive <img src= "https://www.freeiconspng.com/thumbs/csgo-icon/orange-csgo-icon-9.png" height = "25" width = "25">/ League of Legends <img src= "https://i.pinimg.com/564x/58/c8/96/58c89662d2177f45acb6341475e4b829.jpg" height = "25" width = "25">/ Valorant <img src= "https://img.icons8.com/color/48/000000/valorant.png" width = "25">
 
 - Life could be a **dream**🌟
 
+<div>
+ <a href="https://www.youtube.com/channel/UCcLcMGCoefWoR-8vMPIn8yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/vitorviel_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/vittinft" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitorandreviel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-viel-7343ba21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
 
 <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif" width="200"><img src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" width="200"><img src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="200">
 
@@ -34,11 +44,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCcLcMGCoefWoR-8vMPIn8yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/vitorviel_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/vittinft" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitorandreviel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
   ![Snake animation](https://github.com/vitorviel/vitorviel/blob/output/github-contribution-grid-snake.svg)
  
