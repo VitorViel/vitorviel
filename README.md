@@ -3,9 +3,9 @@
 
 - Currently learning <b>React/Node.js </b> 📚
 
-- Studing a little of **everything** 🤓
+- Studing... 🤓
 
-- Counter-Strike: Global Offensive <img src= "https://www.freeiconspng.com/thumbs/csgo-icon/orange-csgo-icon-9.png" height = "25" width = "25">/ League of Legends <img src= "https://i.pinimg.com/564x/58/c8/96/58c89662d2177f45acb6341475e4b829.jpg" height = "25" width = "25">/ Valorant <img src= "https://img.icons8.com/color/48/000000/valorant.png" width = "25">
+- Favorites: CSGO <img src= "https://www.freeiconspng.com/thumbs/csgo-icon/orange-csgo-icon-9.png" height = "25" width = "25">/ Valorant <img src= "https://img.icons8.com/color/48/000000/valorant.png" width = "25">
 
 - Life could be a **dream**🌟
 
@@ -18,13 +18,12 @@
  </div>
  
 
-<img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif" width="200"><img src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" width="200"><img src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="200">
-
- <div>
-  <a href="https://github.com/vitorviel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorviel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorviel&layout=compact&langs_count=7&theme=radical"/>
+<div>
+  <a href="https://github.com/VitorViel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorViel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorViel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
