@@ -1,4 +1,4 @@
-## Hello there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> I'm Vitor Viel 😃
+## Hello there! I'm Vitor Viel 😃
 - System Development student at <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a> 👨‍💻
 
 - Currently learning <b>Python/React/Node.js </b> 📚
