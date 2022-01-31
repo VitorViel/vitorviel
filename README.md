@@ -3,8 +3,6 @@
 
 - Currently learning <b>Python/React/Node.js </b> 📚
 
-- Studing... 🤓
-
 - Favorites: CSGO <img src= "https://www.freeiconspng.com/thumbs/csgo-icon/orange-csgo-icon-9.png" height = "25" width = "25">/ Valorant <img src= "https://img.icons8.com/color/48/000000/valorant.png" width = "25">
 
 - Life could be a **dream**🌟
