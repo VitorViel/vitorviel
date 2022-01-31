@@ -5,7 +5,7 @@
 
 - Favorites: CSGO <img src= "https://www.freeiconspng.com/thumbs/csgo-icon/orange-csgo-icon-9.png" height = "25" width = "25">/ Valorant <img src= "https://img.icons8.com/color/48/000000/valorant.png" width = "25">
 
-- Life could be a **dream**🌟
+- Life could be a **dream** 🤓
 
 <div>
  <a href="https://www.youtube.com/channel/UCcLcMGCoefWoR-8vMPIn8yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
