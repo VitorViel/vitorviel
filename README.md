@@ -42,6 +42,6 @@
 <div> 
   
  
-  ![Snake animation](https://github.com/VitorViel/vitorviel/blob/main/.github/workflows/minhoca.yml)
+  ![Snake animation](https://github.com/VitorViel/VitorViel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
