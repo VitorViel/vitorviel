@@ -1,5 +1,5 @@
 ## Vitor Viel 😃
-- System Development student at <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a> 👨‍💻
+- System Development graduated at <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a> 👨‍💻
 
 - Currently learning <b>Python/React/Node.js </b> 📚
 
