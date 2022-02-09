@@ -1,5 +1,5 @@
 ## Vitor Viel 😃
-- Back-end Dev at HI 👨‍💻
+- Back-end Junior Dev at HI 👨‍💻
 
 - System Development Graduated at <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a> 👨‍💻
 
