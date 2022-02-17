@@ -1,7 +1,7 @@
 ## Vitor Viel 😃
 - Back-end Junior Dev at HI 👨‍💻
 
-- System Development Graduated at <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a> 👨‍💻
+- I have a degree in System Development from <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a> 👨‍💻
 
 - Currently learning <b>Python/React/Node.js </b> 📚
 
