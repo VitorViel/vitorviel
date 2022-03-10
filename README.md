@@ -1,5 +1,5 @@
 ## Vitor Viel 😃
-- Back-end Junior Dev at <a href='https://www.hitecnologia.com.br/'HI </a>👨‍💻
+- Back-end Junior Dev at <a href='https://www.hitecnologia.com.br/'>HI </a>👨‍💻
 
 - I have a degree in System Development from <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a> 👨‍💻
 
