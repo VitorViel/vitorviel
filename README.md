@@ -3,7 +3,7 @@
 
 - I have a degree in System Development from <a href="https://cotuca.unicamp.br/cotuca/" target="_blank">COTUCA</a> 👨‍💻
 
-- Currently learning <b>Python/React/Node.js </b> 📚
+- Currently learning <b>Python/Vue/Django/Node.js </b> 📚
 
 - Favorites: CSGO <img src= "https://www.freeiconspng.com/thumbs/csgo-icon/orange-csgo-icon-9.png" height = "25" width = "25">/ Valorant <img src= "https://img.icons8.com/color/48/000000/valorant.png" width = "25">
 
